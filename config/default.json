@@ -1,0 +1,6 @@
+{
+    "APP_SECRET": "xxxx", // removed
+    "ACCESS_TOKEN": "xxxx", // removed
+    "VERIFY_TOKEN": "chatbotxxxverifytoken",
+    "PORT": 8007
+}
